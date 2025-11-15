@@ -70,8 +70,9 @@ body {
     padding: 25px 0;
     min-height: calc(100vh - 70px);
     box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
-    position: sticky;
+    position: fixed;
     top: 70px;
+    left: 0px;
     height: calc(100vh - 70px);
     overflow-y: auto;
 }
@@ -113,6 +114,7 @@ body {
     padding: 30px;
     background: #f8f9fa;
     overflow-y: auto;
+    margin-left: 220px;
 }
 
 /* Heading Image Section */
