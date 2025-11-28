@@ -300,10 +300,15 @@ body {
     }
     
     #inequality-hero {
-    background-size: 60%;
-    background-repeat: no-repeat;
-    background-position: center;
+        background-size: 60%;
+        background-repeat: no-repeat;
+        background-position: center;
     }
+    
+    .content {
+        margin-left: 0; /* removes desktop sidebar margin */
+      }
+}
 
 /* Match green theme for mobile toggle */
 .sidebar-toggle {
