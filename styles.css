@@ -359,9 +359,4 @@ body {
     background-color: #234200;
 }
 
-/* Remove empty space on mobile */
-@media (max-width: 768px) {
-    .content {
-        margin-left: 0; /* removes desktop sidebar margin */
-    }
-}
+
