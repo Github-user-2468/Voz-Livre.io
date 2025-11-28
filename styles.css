@@ -298,4 +298,10 @@ body {
     .heading-image h1 {
         font-size: 2rem;
     }
+    
+    #inequality-hero {
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
 }
